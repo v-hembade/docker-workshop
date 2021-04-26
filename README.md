@@ -1,3 +1,7 @@
+```console
+     Note: use only ./ to run script
+  ```
+
 # instruction to run script 
   - step1: clone script on your system.
     - command:      git clone https://github.com/v-hembade/docker-workshop.git
