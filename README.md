@@ -1,5 +1,5 @@
 ```console
-     Note: use only ./ to run script
+     Note: use only ./ to run encrypted.sh script
   ```
 
 # instruction to run script 
